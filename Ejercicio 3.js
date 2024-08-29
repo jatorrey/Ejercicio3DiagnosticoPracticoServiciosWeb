@@ -5,5 +5,5 @@ function esPalindromo(palabra) {
     return palabra === palabraReversa;
 }
 
-const palabra = "radar";
+const palabra = "anitalavalatina";
 console.log(`¿Es "${palabra}" un palíndromo?`, esPalindromo(palabra));
